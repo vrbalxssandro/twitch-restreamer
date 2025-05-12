@@ -59,7 +59,7 @@ You need:
     *   Make sure you are still in the directory containing the script files in your terminal.
     *   Execute the script:
         ```bash
-        python twitch-recorder.py
+        python twitch-restreamer.py
         ```
     *   The script will start monitoring. Leave the terminal window open. Use `Ctrl+C` to stop it gracefully.
     
