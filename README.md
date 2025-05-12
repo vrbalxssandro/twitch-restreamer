@@ -53,7 +53,6 @@ You need:
         *   `youtube_stream_key`: Your unique YouTube Stream Key.
         *   `webhook_url`: Your Discord Webhook URL for start/stop notifications.
             *   **(Optional) To disable Discord notifications:** Set `webhook_url = ""` (an empty string).
-    *   **Security Note:** Your `client_secret`, `youtube_stream_key`, and `webhook_url` are sensitive. Avoid committing `config.py` directly to public repositories. Consider using environment variables or adding `config.py` to your `.gitignore` file.
 
 4.  **Run the Script:**
     *   Make sure you are still in the directory containing the script files in your terminal.
