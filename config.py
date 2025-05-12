@@ -1,0 +1,6 @@
+twitch_username = "USERNAME_HERE"
+client_id = "ID_HERE"
+client_secret = "SECRET_HERE"
+youtube_rtmp_url_base = "rtmp://a.rtmp.youtube.com/live2" 
+youtube_stream_key = "KEY_HERE"
+webhook_url = "URL_HERE"
