@@ -33,7 +33,7 @@ You need:
 ## How to Run
 
 1.  **Get the Code:**
-    *   Clone the repository: `git clone <your-repository-url>` (Replace with your actual repo URL!)
+    *   Clone the repository: `git clone https://github.com/vrbalxssandro/twitch-restreamer.git` (Replace with your actual repo URL!)
     *   Or download the `twitch-recorder.py` and `config.py` files.
 
 2.  **Install Dependencies:**
